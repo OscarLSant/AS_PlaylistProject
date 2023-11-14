@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "582685490070",
+    "firebase_url": "https://playlistfirebase-dce2e-default-rtdb.firebaseio.com",
+    "project_id": "playlistfirebase-dce2e",
+    "storage_bucket": "playlistfirebase-dce2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582685490070:android:7c282224442d72dbbabbb7",
+        "android_client_info": {
+          "package_name": "com.example.playlistfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbbpo3vVkO0V_l1-hEDqjU7He-kP96B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
